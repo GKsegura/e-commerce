@@ -8,6 +8,7 @@ Este projeto foi desenvolvido para fins educacionais e para praticar boas práti
 
 ## 🗂 Estrutura do Projeto
 
+```
 ├─ backend/
 │ ├─ controllers/
 │ │ ├─ productsController.js
@@ -37,3 +38,4 @@ Este projeto foi desenvolvido para fins educacionais e para praticar boas práti
 │ └─ package.json
 ├─ .gitignore
 └─ README.md
+```
